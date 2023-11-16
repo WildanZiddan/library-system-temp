@@ -37,9 +37,3 @@ if (isset($_POST['button_name'])){ //This statement will checks input form and i
     }
 }
 ?>
-
-
-<!-- Add this to the next page(homepage) for make it can't back if push browser back button/change directory -->
-<script  text="text/javascript">
-      window.history.forward();
-</script>
